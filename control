@@ -1,0 +1,11 @@
+Package: com.sugiuta.tosaka
+Name: Tosaka
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.sugiuta.tosaka
+Description: Display weather and location information on the status bar every 10 seconds.
+Maintainer: sugiuta
+Author: sugiuta
+Section: Tweaks
+Depends: mobilesubstrate, com.sugiuta.libtogachan
+Icon: https://sugiuta.github.io/descriptions/com.sugiuta.tosaka/Tosaka.png
